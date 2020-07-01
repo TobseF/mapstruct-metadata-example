@@ -1,0 +1,19 @@
+# Compiled class file
+
+.idea
+!.idea/codeStyles
+!.idea/codeStyles/*
+
+target
+*.iml
+
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.zip
+*.tar.gz
+*.rar
